@@ -1,1 +1,7 @@
-aaa
+pyrogram
+tgcrypto
+kvsqlite
+pillow
+qrcode
+pyzbar
+kurigram
