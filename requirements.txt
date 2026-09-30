@@ -1,7 +1,1 @@
-pyrogram
-tgcrypto
-kvsqlite
-pillow
-qrcode
-pyzbar
-kurigram
+pip install pyTelegramBotAPI
